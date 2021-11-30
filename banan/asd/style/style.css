@@ -1,0 +1,28 @@
+.card {
+  margin-top: 120px;
+}
+
+.container {
+  margin-top: 120px;
+}
+
+.table {
+  border-radius: 25px;
+  background-color: #481f72;
+}
+
+.thead-dark {
+  background-color: purple;
+}
+
+.rubrik {
+  text-align: center;
+  margin-top: 30px;
+  background-color: black;
+  color: blanchedalmond;
+}
+
+body {
+  background-color: #ff9f9f;
+}
+/*# sourceMappingURL=style.css.map */
